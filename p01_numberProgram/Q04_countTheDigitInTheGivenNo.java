@@ -7,19 +7,13 @@ How:
 Keep dividing the number by 10
 
 Increase count each time
-
 Stop when number becomes 0
 
 Example (345):
-
 345 → count=1
-
 34 → count=2
-
 3 → count=3
-
 0 → stop
-
 Final count = 3*/
 
 public class Q04_countTheDigitInTheGivenNo {
