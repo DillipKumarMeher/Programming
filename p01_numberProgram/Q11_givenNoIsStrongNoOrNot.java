@@ -20,12 +20,12 @@ public class Q11_givenNoIsStrongNoOrNot {
 		while (n != 0) {
 			int digit = n % 10;
 
-			int fact = 1;
+			int factorial = 1;
 			for (int i = 1; i <= digit; i++) {
-				fact = fact * i;
+				factorial = factorial * i;
 			}
 
-			sum = sum + fact;
+			sum = sum + factorial;
 			n = n / 10;
 		}
 
