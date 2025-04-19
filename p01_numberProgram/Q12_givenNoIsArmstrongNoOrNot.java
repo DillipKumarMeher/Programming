@@ -1,16 +1,16 @@
 package p01_numberProgram;
 
-//An Armstrong number is a number where
+/*An Armstrong number is a number where
 
-//sum of each digit raised to the power of number of digits equals the number itself.
-//
-//Example:
-//153
-//→ 1³ + 5³ + 3³
-//= 1 + 125 + 27
-//= 153
-//
-//Since sum = number, it’s an Armstrong number.
+sum of each digit raised to the power of number of digits equals the number itself.
+
+Example:
+153
+→ 1³ + 5³ + 3³
+= 1 + 125 + 27
+= 153
+
+Since sum = number, it’s an Armstrong number.*/
 
 public class Q12_givenNoIsArmstrongNoOrNot {
 
