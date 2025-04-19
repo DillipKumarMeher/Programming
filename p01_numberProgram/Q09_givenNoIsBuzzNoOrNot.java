@@ -4,11 +4,8 @@ package p01_numberProgram;
 ends with 7 or is divisible by 7.
 
 Example:
-
 27 → ends with 7 → Buzz number
-
 35 → divisible by 7 → Buzz number
-
 23 → not ending with 7, not divisible by 7 → not a Buzz number*/
 
 public class Q09_givenNoIsBuzzNoOrNot {
