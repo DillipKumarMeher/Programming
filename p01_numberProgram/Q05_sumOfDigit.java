@@ -7,21 +7,14 @@ How:
 Get last digit using n % 10
 
 Add to sum
-
 Remove last digit using n / 10
-
 Repeat till number is 0
 
 Example (345):
-
 345 → 5 → sum=5
-
 34 → 4 → sum=9
-
 3 → 3 → sum=12
-
 0 → stop
-
 Final sum = 12*/
 
 public class Q05_sumOfDigit {
