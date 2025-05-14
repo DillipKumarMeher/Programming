@@ -1,5 +1,11 @@
 package p01_numberProgram;
 
+/*✅ Example:28
+Divisors: 1, 2, 4, 7, 14
+Sum = 1 + 2 + 4 + 7 + 14 = 28
+✔️ So, 28 is a Perfect Number
+*/
+
 public class Q30_givenNoIsPerfectNoOrNot {
 
 	public static void main(String[] args) {
