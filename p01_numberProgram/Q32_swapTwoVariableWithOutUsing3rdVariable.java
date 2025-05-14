@@ -1,0 +1,18 @@
+package p01_numberProgram;
+
+public class Q32_swapTwoVariableWithOutUsing3rdVariable {
+
+	public static void main(String[] args) {
+
+		int a = 5;
+		int b = 10;
+
+		System.out.println("Before Swap: a = " + a + ", b = " + b);
+
+		a = a + b; // a becomes 15
+		b = a - b; // b becomes 5
+		a = a - b; // a becomes 10
+
+		System.out.println("After Swap: a = " + a + ", b = " + b);
+	}
+}
