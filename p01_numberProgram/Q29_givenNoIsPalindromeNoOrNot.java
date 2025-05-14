@@ -1,5 +1,11 @@
 package p01_numberProgram;
 
+/*✅ Examples:
+121 → same when reversed → ✔️ Palindrome
+1331 → reversed is 1331 → ✔️ Palindrome
+123 → reversed is 321 → ❌ Not a Palindrome
+*/
+
 public class Q29_givenNoIsPalindromeNoOrNot {
 
 	public static void main(String[] args) {
