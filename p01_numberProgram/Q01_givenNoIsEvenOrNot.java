@@ -1,9 +1,7 @@
 package p01_numberProgram;
 
 /*An Even number is a number divisible by 2.
-
 Example: 2, 4, 6, 8, 10...
-
 Check:
 If n % 2 == 0 → it’s even.*/
 
