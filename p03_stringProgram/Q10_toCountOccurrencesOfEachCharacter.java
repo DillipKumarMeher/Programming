@@ -1,5 +1,11 @@
 package p03_stringProgram;
 
+/*For example:
+If the input is "banana", the result would be:
+b appears 1 time
+a appears 3 times
+n appears 2 times*/
+
 public class Q10_toCountOccurrencesOfEachCharacter {
 	public static void main(String[] args) {
 		String str = "ImTheBoss";
